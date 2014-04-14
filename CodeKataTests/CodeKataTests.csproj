@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Solutions\FizzBuzzTests.cs" />
+    <Compile Include="Solutions\KarateChopTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Personal\" />
